@@ -22,7 +22,7 @@
 
 ## Initial Access
 
-* [Page 3](initial-access/page-3.md)
+* [Tools Initial Access](initial-access/tools-initial-access.md)
 
 ## Execution
 
